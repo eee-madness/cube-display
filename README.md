@@ -1,4 +1,3 @@
 cube-display
 ============
-
-Led 3D Cubic display project.
+3D LED Cubic display project.
