@@ -1,1 +1,7 @@
-Comments on the ongoing project should be here.
+Comments on the ongoing project should be here. Sub-comments or replies should be
+nested like this -
+
+* Hi this is a comment. -mr. X
+** This is the sub-comment or reply to the first comment. -mr. Y
+***This is the reply to the previous sub-comment or reply. -mr. X
+* This is another comment. -mr. Z
